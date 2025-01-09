@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 ECHO="echo"
 BASE_DIR="/home/proyectos"
 CHMOD="chmod"
